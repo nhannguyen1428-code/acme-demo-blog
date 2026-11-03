@@ -2,6 +2,10 @@
 title: "Sai lầm khi nhập tồn kho đầu kỳ: vì sao lệch 40 thùng lại bắt nguồn từ ngày nhập số dư"
 description: "Phân tích 5 sai lầm khi nhập tồn kho đầu kỳ và quy trình 4 bước giúp doanh nghiệp nhỏ tránh lệch kho, sai giá vốn ngay từ đầu."
 permalink: /posts/sai-lam-khi-nhap-ton-kho-dau-ky-vi-sao-lech-40-thung-lai-bat-nguon-tu-ngay-nhap/
+lang: vi-VN
+author:
+  name: "Nguyễn An"
+  url: "https://github.com/acme-an"
 tags: ["quan-ly-kho","ton-kho-dau-ky","van-hanh","sai-lam"]
 ---
 
